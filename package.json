@@ -1,0 +1,11 @@
+{
+  "name": "Scheduler-React",
+  "version": "0.0.1",
+  "devDependencies": {
+    "express": "^4.12.2",
+    "jest-cli": "^0.4.0"
+  },
+  "scripts": {
+   "test": "jest"
+ }
+}
